@@ -21,3 +21,11 @@ export PATH="$PATH:$(npm prefix -g)/bin"
 
 # Run CTF generator
 juice-shop-ctf
+```
+### 📚 References
+
+* [Node.js (Current Version)](https://nodejs.org/en/download/current)
+* [OWASP Juice Shop CTF Mode Guide](https://help.owasp-juice.shop/part1/ctf.html)
+* [juice-shop-ctf-cli (npm)](https://www.npmjs.com/package/juice-shop-ctf-cli)
+* [OWASP Juice Shop (GitHub)](https://github.com/juice-shop/juice-shop)
+* [Docker Post-install Steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)
